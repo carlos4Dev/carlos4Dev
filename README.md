@@ -1,7 +1,7 @@
 ### Visita mi [portfolio][website] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/acarlosparra?color=%231DA1F2&label=Carlos%20Parra&logo=twitter&style=for-the-badge)][twitter]
-[<img src="img/portada.jpg">][website]
+[<img src="img/Portada.jpg">][website]
 
 ### Aspirante a Programador Junior <img align="left" alt="Computer" width= "30px" src="iconos/039-computer.png"/>
 
