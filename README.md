@@ -1,7 +1,7 @@
 ### Visita mi [portfolio][website] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/acarlosparra?color=%231DA1F2&label=Carlos%20Parra&logo=twitter&style=for-the-badge)](https://twitter.com/acarlosparra)
-[<img src="https://media.giphy.com/media/3ohhwrfdoqBUw2DxJK/giphy.gif">][website]
+[![Twitter Follow](https://img.shields.io/twitter/follow/acarlosparra?color=%231DA1F2&label=Carlos%20Parra&logo=twitter&style=for-the-badge)][twitter]
+[<img src="img/portada.jpg">][website]
 
 ### Aspirante a Programador Junior <img align="left" alt="Computer" width= "30px" src="iconos/039-computer.png"/>
 
@@ -36,4 +36,5 @@
 
 <!-- LINKS -->
 [website]: https://carlosparra.pythonanywhere.com/
+[twitter]: https://twitter.com/acarlosparra/
 [linkedIn]: https://es.linkedin.com/in/carlos-parra-gonz%C3%A1lez-24a50a163?trk=people-guest_people_search-card
