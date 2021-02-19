@@ -15,6 +15,7 @@
 ### Coding <img align="left" alt="Coding" width= "26px" src="iconos/040-program.png"/>
 <!-- <div>Iconos diseñados por <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a></div> -->
 <img align="left" alt="Python" width= "36px" src="iconos/005-python.png"/>
+<img align="left" alt="Django" width= "36px" src="iconos/042-django.png"/>
 <img align="left" alt="Java" width= "36px" src="iconos/003-java.png"/>
 <img align="left" alt="HTML5" width= "36px" src="iconos/030-html-5.png"/>
 <img align="left" alt="CSS3" width= "36px" src="iconos/031-css.png"/>
