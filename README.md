@@ -5,10 +5,10 @@
 
 ### Aspirante a Programador Junior <img align="left" alt="Computer" width= "30px" src="iconos/039-computer.png"/>
 
-- 🔭 Buscando [mi primer empleo][linkedIn] como programador
+- :mag: Buscando [mi primer empleo][linkedIn] como programador
 - 🌱 Aprendiendo Spring Boot
-- 👯 Con ganas de colaborar...
-- 😄 Optimista
+- :point_right: Esforzándome cada día para mejorar...
+- :smiley: Optimista
 
 ---
 
@@ -33,6 +33,15 @@
 <img align="left" alt="Eclipse" width= "36px" src="iconos/035-eclipse.png"/>
 <img align="left" alt="Intellij" width= "36px" src="iconos/036-intellij.png"/>
 <img align="left" alt="Sublime" width= "36px" src="iconos/037-sublime.png"/>
+
+<br>
+
+---
+###Estadísticas dinámicas <img align="left" alt="Coding" width= "26px" src="iconos/043-stats.png"/>
+![Carlos Parra's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlos4Dev&show_icons=true&theme=vue)
+
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos4Dev&layout=compact&theme=vue)
 
 
 <!-- LINKS -->
