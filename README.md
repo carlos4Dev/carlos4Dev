@@ -37,7 +37,7 @@
 <br>
 
 ---
-###Estadísticas dinámicas <img align="left" alt="Coding" width= "26px" src="iconos/043-stats.png"/>
+### Estadísticas dinámicas <img align="left" alt="Coding" width= "26px" src="iconos/043-stats.png"/>
 ![Carlos Parra's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlos4Dev&show_icons=true&theme=vue)
 
 ---
