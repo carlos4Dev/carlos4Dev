@@ -6,8 +6,8 @@
 ### Aspirante a Programador Junior <img align="left" alt="Computer" width= "30px" src="iconos/039-computer.png"/>
 
 - :mag: Buscando [mi primer empleo][linkedIn] como programador
-- 🌱 Aprendiendo Spring Boot
-- :point_right: Esforzándome cada día para mejorar...
+- :office: Dispuesto a hacer prácticas
+- :point_right: Esforzándome cada día para mejorar
 - :smiley: Optimista
 
 ---
