@@ -8,7 +8,6 @@
 - :mag: Buscando [mi primer empleo][linkedIn] como programador
 - :office: Dispuesto a hacer prácticas
 - :point_right: Esforzándome cada día para mejorar
-- :smiley: Optimista
 
 ---
 
@@ -26,14 +25,24 @@
 <br>
 
 ---
-### IDES <img align="left" alt="Coding" width= "26px" src="iconos/041-ide.png"/>
+### IDEs <img align="left" alt="Coding" width= "26px" src="iconos/041-ide.png"/>
 
-<img align="left" alt="VisualStudioCode" width= "36px" src="iconos/033-visual_studio_code.png"/>
 <img align="left" alt="VisualStudio" width= "36px" src="iconos/034-visual_studio.png"/>
 <img align="left" alt="Eclipse" width= "36px" src="iconos/035-eclipse.png"/>
+<img align="left" alt="NetBeans" width= "36px" src="iconos/046-netbeans.png"/>
 <img align="left" alt="Intellij" width= "36px" src="iconos/036-intellij.png"/>
-<img align="left" alt="Sublime" width= "36px" src="iconos/037-sublime.png"/>
 
+
+<br>
+
+---
+
+### Editores de código <img align="left" alt="Editores" width= "26px" src="iconos/047-editores.png"/>
+
+<img align="left" alt="VisualStudioCode" width= "36px" src="iconos/033-visual_studio_code.png"/>
+<img align="left" alt="Sublime" width= "36px" src="iconos/037-sublime.png"/>
+<img align="left" alt="Atom" width= "36px" src="iconos/044-atom.svg"/>
+<img align="left" alt="Notepad++" width= "36px" src="iconos/045-notepad.png"/>
 <br>
 
 ---
