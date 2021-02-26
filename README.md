@@ -19,8 +19,12 @@
 <img align="left" alt="HTML5" width= "36px" src="iconos/030-html-5.png"/>
 <img align="left" alt="CSS3" width= "36px" src="iconos/031-css.png"/>
 <img align="left" alt="JavaScript" width= "36px" src="iconos/029-javaScript.png"/>
+<img align="left" alt="Bootstrap" width= "36px" src="iconos/048-bootstrap.png"/>
 <img align="left" alt="Vue" width= "36px" src="iconos/038-vue.png"/>
+<img align="left" alt="Nodejs" width= "36px" src="iconos/049-nodejs.png"/>
+<img align="left" alt="SQL" width= "36px" src="iconos/050-sql.png"/>
 <img align="left" alt="MySQL" width= "36px" src="iconos/021-mysql.png"/>
+<img align="left" alt="Postgresql" width= "36px" src="iconos/051-postgresql.png"/>
 <img align="left" alt="Github" width= "36px" src="iconos/010-github.png"/>
 <br>
 
