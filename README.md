@@ -8,6 +8,7 @@
 ### Aspirante a Programador Junior <img align="left" alt="Computer" width= "30px" src="iconos/039-computer.png"/>
 
 - :mag: Buscando [mi primer empleo][linkedIn] como programador
+- :seedling: Aprendiendo Spring Boot
 - :office: Dispuesto a hacer prácticas
 - :point_right: Esforzándome cada día para mejorar
 
@@ -27,7 +28,6 @@
 <img align="left" alt="SQL" width= "36px" src="iconos/050-sql.png"/>
 <img align="left" alt="MySQL" width= "36px" src="iconos/021-mysql.png"/>
 <img align="left" alt="Postgresql" width= "36px" src="iconos/051-postgresql.png"/>
-<img align="left" alt="Github" width= "36px" src="iconos/010-github.png"/>
 <br>
 
 ---
