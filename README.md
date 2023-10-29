@@ -6,7 +6,7 @@
 <img  align="left" src="https://komarev.com/ghpvc/?username=carlos4Dev&label=Visitas+perfil&style=flat-square"  alt="carlos4Dev" width= "125px"/>
 <br>
 
-### Programador Junior desarrollando en Java <img align="left" alt="Computer" width= "30px" src="iconos/039-computer.png"/>
+### Programador Java <img align="left" alt="Computer" width= "30px" src="iconos/039-computer.png"/>
 
 - :point_right: Esforzándome cada día para mejorar
 
