@@ -1,7 +1,7 @@
 ### Visita mi [portfolio][website] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/acarlosparra?color=%231DA1F2&label=Carlos%20Parra&logo=twitter&style=for-the-badge)][twitter]
-[<img src="img/Portada_01.png">][website]
+[<img src="img/Portada_01.jpg">][website]
 
 <img  align="left" src="https://komarev.com/ghpvc/?username=carlos4Dev&label=Visitas+perfil&style=flat-square"  alt="carlos4Dev" width= "125px"/>
 <br>
